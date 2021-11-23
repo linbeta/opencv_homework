@@ -1,4 +1,4 @@
-# 作業一：做一個左右來回跑的正方形
+# 作業一：寫一個左右來回跑的正方形
 import cv2
 import numpy as np
 import keyboard
